@@ -1,1 +1,5 @@
-# transport_fee_rn
+# Tra giá cước vận chuyển 
+Ứng dụng sử dụng cho khách hàng có nhu cầu vận chuyển hàng hóa, có thể là đồ dùng cá nhân, thực phẩm, thuốc,... 
++ tra bảng gía phí vận chuyển qua ứng dụng
++ nhập tên, địa chỉ gửi nhận và số cân, kích thước hàng ungws dụng sẽ tra bảng giá 
++ khách hàng có thể xem phí vận chuyển, chuyển đổi sang tiền tệ muốn chi trả như USD, Tệ, VND,...
