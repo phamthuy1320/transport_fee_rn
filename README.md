@@ -6,7 +6,8 @@
 + Chức năng chuyển đổi tiền tệ
 
 # Bảng giá và các yêu cầu
-![bangGia](./transport_fee_rn/src/assets/BẢNG GIÁ CƯỚC DN CPN KV HCM NGA.png)
+![bangGia](./transport_fee_rn/src/assets/bangGia.png)
 # Demo
 + Chức năng "contact us" tuy hiển thị trên giao diện nhưng chưa thực hiện nhiệm vụ nào.
+
 ![demo](./transport_fee_rn/src/assets/demo.gif)
